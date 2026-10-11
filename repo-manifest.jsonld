@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/tox-dev/mdformat-zola/commit/bceb47770bfe67eb16f3f997a348e70cedbbfc0e",
       "git:hexsha": "bceb47770bfe67eb16f3f997a348e70cedbbfc0e",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-11T03:07:09.128154+00:00"
     },
     {
       "@id": "https://repolex.ai/r/tox-dev/mdformat-zola/commit/d545cdfc49a305e173d520a8011c095d0563ee1b",
