@@ -1,0 +1,20 @@
+{
+  "@context": "https://repolex.ai/ontology/jsonld-context/repolex-context.jsonld",
+  "@id": "https://repolex.ai/r/tox-dev/mdformat-zola",
+  "@type": "gh:Repository",
+  "gh:name": "mdformat-zola",
+  "gh:owner": "tox-dev",
+  "repolex:trackedCommit": [
+    {
+      "@id": "https://repolex.ai/r/tox-dev/mdformat-zola/commit/bceb47770bfe67eb16f3f997a348e70cedbbfc0e",
+      "git:hexsha": "bceb47770bfe67eb16f3f997a348e70cedbbfc0e",
+      "repolex:parseStatus": "metadata_complete"
+    },
+    {
+      "@id": "https://repolex.ai/r/tox-dev/mdformat-zola/commit/d545cdfc49a305e173d520a8011c095d0563ee1b",
+      "git:hexsha": "d545cdfc49a305e173d520a8011c095d0563ee1b",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "1.0.0"
+    }
+  ]
+}
